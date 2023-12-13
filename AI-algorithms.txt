@@ -1,0 +1,25 @@
+Artifical Intelligence(AI)algorithm are sets of rules and computations designed to perform specific tasks without explicit programming. These algorithms enabl machines and system to learn from data.
+Here aresome common types of AI algorithms:
+
+1. Supervised Learning Algorithm:
+   The algorithm is trained on a labeled dataset, where the input data is paired with corresponding output labels.
+   Example:
+       * Linear Regression
+       * Decision Trees
+
+2. Unsupervised Learning Algorithm:
+   The algorithm learns  patterns and relationships within unlabeled data, often used for clustering or dimensionality reduction.
+   Example:
+       * Q-Learning
+       * Deep Q Networks(DQN)
+
+3. Clustering Algorithm:
+   Algorithm that group similar data points together based on certain criteria.
+   Example: 
+       * K-Means
+       * Mean Shift
+
+4. Deep Learning Algorithm:
+   Neural network architectures with multiple layers(deep neural networks) that excel in learning hierarchical representations.
+   Example:
+       * Transformer Networks
